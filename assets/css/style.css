@@ -111,6 +111,7 @@ nav a:first-child {
   margin-right: 10px;
   overflow: auto;
   background: black;
+  border: 2px solid #efefef;
 }
 
 .card-img-top {
